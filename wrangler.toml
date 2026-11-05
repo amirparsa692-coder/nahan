@@ -7,7 +7,7 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "IOT_DB"
 database_name = "nahan-db"
-database_id = "YOUR_D1_DATABASE_ID_HERE"
+database_id = "1e0e95d0-ccd1-4c06-a899-109b85656ccf"
 
 # Optional environment variables
 [vars]
